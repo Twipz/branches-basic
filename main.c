@@ -6,5 +6,6 @@
    printf("Hello, world!");
    printf("Again!");
    printf("So, how are you?");
+   printf("So, have a nice day!");
    return 0;
 }
